@@ -1,0 +1,165 @@
+{
+    "results": [
+      {
+        "name": "google-gemini/cookbook",
+        "owner": "google-gemini",
+        "description": "Examples and guides for using the Gemini API",
+        "language": "Jupyter Notebook",
+        "stars": 7420,
+        "forks": 967,
+        "url": "https://github.com/google-gemini/cookbook",
+        "trending_position": 1
+      },
+      {
+        "name": "TEN-framework/TEN-Agent",
+        "owner": "TEN-framework",
+        "description": "TEN Agent is a conversational AI powered by TEN, integrating Gemini 2.0 Multimodal Live API, OpenAI Realtime API, RTC, and more. It offers real-time capabilities to see, hear, and speak, along with advanced tools like weather checks, web search, and RAG.",
+        "language": "Python",
+        "stars": 3055,
+        "forks": 306,
+        "url": "https://github.com/TEN-framework/TEN-Agent",
+        "trending_position": 2
+      },
+      {
+        "name": "Byaidu/PDFMathTranslate",
+        "owner": "Byaidu",
+        "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+        "language": "Python",
+        "stars": 8248,
+        "forks": 593,
+        "url": "https://github.com/Byaidu/PDFMathTranslate",
+        "trending_position": 3
+      },
+      {
+        "name": "wavetermdev/waveterm",
+        "owner": "wavetermdev",
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "language": "TypeScript",
+        "stars": 6640,
+        "forks": 185,
+        "url": "https://github.com/wavetermdev/waveterm",
+        "trending_position": 4
+      },
+      {
+        "name": "Shubhamsaboo/awesome-llm-apps",
+        "owner": "Shubhamsaboo",
+        "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "stars": 6489,
+        "forks": 715,
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "trending_position": 5
+      },
+      {
+        "name": "yt-dlp/yt-dlp",
+        "owner": "yt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "language": "Python",
+        "stars": 93289,
+        "forks": 7266,
+        "url": "https://github.com/yt-dlp/yt-dlp",
+        "trending_position": 6
+      },
+      {
+        "name": "commaai/openpilot",
+        "owner": "commaai",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+        "language": "Python",
+        "stars": 50868,
+        "forks": 9199,
+        "url": "https://github.com/commaai/openpilot",
+        "trending_position": 7
+      },
+      {
+        "name": "Radarr/Radarr",
+        "owner": "Radarr",
+        "description": "Movie organizer/manager for usenet and torrent users.",
+        "language": "C#",
+        "stars": 10517,
+        "forks": 1009,
+        "url": "https://github.com/Radarr/Radarr",
+        "trending_position": 8
+      },
+      {
+        "name": "Saghen/blink.cmp",
+        "owner": "Saghen",
+        "description": "Performant, batteries-included completion plugin for Neovim",
+        "language": "Lua",
+        "stars": 1924,
+        "forks": 106,
+        "url": "https://github.com/Saghen/blink.cmp",
+        "trending_position": 9
+      },
+      {
+        "name": "PCSX2/pcsx2",
+        "owner": "PCSX2",
+        "description": "PCSX2 - The Playstation 2 Emulator",
+        "language": "C++",
+        "stars": 12046,
+        "forks": 1637,
+        "url": "https://github.com/PCSX2/pcsx2",
+        "trending_position": 10
+      },
+      {
+        "name": "DiceDB/dice",
+        "owner": "DiceDB",
+        "description": "DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",
+        "language": "Go",
+        "stars": 7165,
+        "forks": 1120,
+        "url": "https://github.com/DiceDB/dice",
+        "trending_position": 11
+      },
+      {
+        "name": "arendst/Tasmota",
+        "owner": "arendst",
+        "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+        "language": "C",
+        "stars": 22372,
+        "forks": 4825,
+        "url": "https://github.com/arendst/Tasmota",
+        "trending_position": 12
+      },
+      {
+        "name": "microsoft/windows-rs",
+        "owner": "microsoft",
+        "description": "Rust for Windows",
+        "language": "Rust",
+        "stars": 10724,
+        "forks": 507,
+        "url": "https://github.com/microsoft/windows-rs",
+        "trending_position": 13
+      },
+      {
+        "name": "ByteByteGoHq/system-design-101",
+        "owner": "ByteByteGoHq",
+        "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "language": "N/A",
+        "stars": 65972,
+        "forks": 6958,
+        "url": "https://github.com/ByteByteGoHq/system-design-101",
+        "trending_position": 14
+      },
+      {
+        "name": "freqtrade/freqtrade",
+        "owner": "freqtrade",
+        "description": "Free, open source crypto trading bot",
+        "language": "Python",
+        "stars": 32510,
+        "forks": 6527,
+        "url": "https://github.com/freqtrade/freqtrade",
+        "trending_position": 15
+      },
+      {
+        "name": "LazyVim/LazyVim",
+        "owner": "LazyVim",
+        "description": "Neovim config for the lazy",
+        "language": "Lua",
+        "stars": 18088,
+        "forks": 1273,
+        "url": "https://github.com/LazyVim/LazyVim",
+        "trending_position": 16
+      }
+    ]
+  }
+  
